@@ -243,14 +243,6 @@
     "file": "_app/immutable/assets/_page-e4821e93.css",
     "src": "src/routes/+page.css"
   },
-  "src/routes/chatbot/+page.css": {
-    "file": "_app/immutable/assets/_page-0e122735.css",
-    "src": "src/routes/chatbot/+page.css"
-  },
-  "src/routes/clicker/+page.css": {
-    "file": "_app/immutable/assets/_page-e9f000f8.css",
-    "src": "src/routes/clicker/+page.css"
-  },
   "src/routes/fanpage/+page.css": {
     "file": "_app/immutable/assets/_page-d4fffd6d.css",
     "src": "src/routes/fanpage/+page.css"
@@ -259,13 +251,21 @@
     "file": "_app/immutable/assets/_page-de82f2c8.css",
     "src": "src/routes/TellTale/+page.css"
   },
-  "src/routes/todolist/+page.css": {
-    "file": "_app/immutable/assets/_page-750052bc.css",
-    "src": "src/routes/todolist/+page.css"
+  "src/routes/chatbot/+page.css": {
+    "file": "_app/immutable/assets/_page-0e122735.css",
+    "src": "src/routes/chatbot/+page.css"
+  },
+  "src/routes/clicker/+page.css": {
+    "file": "_app/immutable/assets/_page-e9f000f8.css",
+    "src": "src/routes/clicker/+page.css"
   },
   "src/routes/telltalew/+page.css": {
     "file": "_app/immutable/assets/_page-90eba0c1.css",
     "src": "src/routes/telltalew/+page.css"
+  },
+  "src/routes/todolist/+page.css": {
+    "file": "_app/immutable/assets/_page-750052bc.css",
+    "src": "src/routes/todolist/+page.css"
   },
   "src/routes/memory/+page.css": {
     "file": "_app/immutable/assets/_page-d8b77d49.css",
